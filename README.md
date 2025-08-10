@@ -1,2 +1,2 @@
 # Ai
-Use for construction not for destruction 
+its only layout of ai page 
